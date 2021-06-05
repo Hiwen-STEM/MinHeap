@@ -115,3 +115,5 @@ Documentation for the Min - Binary Heap Implementation:
 
 	Version 1.0: The first version; it incorporates many of the same features as its
 		     MaxHeap counterpart.
+
+	Version 2.0: Re-Upload...
