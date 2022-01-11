@@ -11,7 +11,8 @@ Once a matrix is filled up, then another 1000x1000 matrix file will be created i
 By doing this we can also keep the amount of storage used at a minimal amount, but this does
 assume that the file associated with a 1000x1000 matrix is not that big. For many it isn't
 considering the amount of storage most computers come with these days, but for some it could be
-a problem; so keep this into consideration before using...
+a problem; so keep this into consideration before using. On a Mac system for instance, a 1000x1000
+numpy memmap file utilizes about 4 MB of storage...
 
 # Overview
 Documentation for the Min - Binary Heap Implementation:
