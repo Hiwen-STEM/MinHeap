@@ -13,8 +13,9 @@ assume that the file associated with a 1000x1000 matrix is not that big. For man
 considering the amount of storage most computers come with these days, but for some it could be
 a problem; so keep this into consideration before using...
 
-#Overview
+# Overview
 Documentation for the Min - Binary Heap Implementation:
+
 # 0. Preliminary Information
 
      Upon Creating a memmap with the build_heap function, a directory that will hold the memmap files
